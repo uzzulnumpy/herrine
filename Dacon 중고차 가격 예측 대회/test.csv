@@ -1,0 +1,437 @@
+id,title,odometer,location,isimported,engine,transmission,fuel,paint,year
+0,Mercedes-Benz C 300,1234,Abuja,New ,4-cylinder(I4),automatic,petrol,White,2017
+1,Honda Accord,29938,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2013
+2,Mercedes-Benz S 550,87501,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+3,Toyota Sienna,180894,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Dark Grey,2001
+4,Toyota Hiace,104814,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2000
+5,Toyota Corolla,53312,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2013
+6,Toyota Corolla,110106,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2003
+7,Iveco EUROCARGO 120e18,0,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,2000
+8,Mercedes-Benz GLE 350,53277,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2017
+9,Toyota Highlander,138144,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Blue,2006
+10,Toyota Hilux,51,Lagos,New ,6-cylinder(V6),automatic,petrol,White,2020
+11,Toyota Camry,62745,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2016
+12,Toyota Corolla,84780,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2011
+13,Toyota Sienna,85244,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2010
+14,Mercedes-Benz C 180,180641,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2001
+15,Honda Accord,255284,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2008
+16,Lexus ES 350,139574,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Grey,2007
+17,Toyota Camry,98717,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Gold,1997
+18,Honda Fit,188106,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2009
+19,Toyota Matrix,266627,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2009
+20,Toyota Corolla,65039,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2004
+21,Toyota Camry,89639,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Green,2011
+22,Toyota Matrix,198840,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2009
+23,Toyota Venza,61687,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Red,2014
+24,Lexus IS 250,119082,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Blue,2006
+25,Toyota Highlander,190470,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,White,2008
+26,Nissan Primera,250500,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2002
+27,Toyota Matrix,189523,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2003
+28,Volkswagen Sharan,367464,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Black,1997
+29,Jeep Wrangler,11165,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Silver,2009
+30,Volkswagen Golf,200000,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Silver ,1998
+31,Mercedes-Benz 814,411048,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,2001
+32,Nissan Sentra,238884,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2010
+33,Volkswagen Passat,179515,Lagos,Locally used,4-cylinder(I4),manual,petrol,Grey,2003
+34,Toyota Camry,64396,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2011
+35,Mercedes-Benz GLK 350,133295,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2010
+36,Lexus RX 350,164794,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2007
+37,Ford Mondeo,178607,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Green,2001
+38,Lexus RX 350,175854,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Sliver ,2007
+39,BMW X3,104277,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2012
+40,Honda Accord,74971,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2007
+41,Toyota Sienna,56831,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,White,2011
+42,Toyota Corolla,125326,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2004
+43,Mack CXN613 CAB BEHIND ENGINE,564234,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,2006
+44,Toyota RAV 4,162396,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Gray,2013
+45,Lexus RX 350,35685,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Gold ,2012
+46,Toyota Corolla,860,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black ,2018
+47,Land Rover Discovery,13687,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Green,2019
+48,Toyota Avalon,214674,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2006
+49,Toyota Sienna,128033,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Cream,2008
+50,Lexus GX 460,44348,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Silver,2011
+51,Toyota Sienna,159504,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Brown,2009
+52,Hyundai Santa Fe,197520,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2008
+53,Toyota Corolla,73677,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2015
+54,Lexus IS 250,235804,Lagos,Locally used,6-cylinder(V6),automatic,petrol,black,2007
+55,Peugeot 206,124998,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2001
+56,Nissan Sentra,115294,Lagos ,Locally used,4-cylinder(I4),automatic,petrol,Yellow,2006
+57,Volvo FL7,0,Lagos,Locally used,6-cylinder(I6),manual,diesel,white,1993
+58,Mercedes-Benz C 320,90614,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Grey,2004
+59,Toyota Camry,236615,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Cream ,2003
+60,Toyota Corolla,72166,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2015
+61,Hyundai Sonata,147386,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2011
+62,Infiniti FX,76442,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2004
+63,Honda Civic,60242,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+64,Mercedes-Benz CLS 500,51494,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gold,2006
+65,Hyundai Sonata,178047,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2011
+66,Honda Accord,53713,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2015
+67,Mercedes-Benz GLK 300,78608,Lagos,Foreign Used,5-cylinder(I5),automatic,petrol,Black,2010
+68,Lexus IS 250,115422,Lagos,Locally used,6-cylinder(I6),automatic,petrol,Black,2007
+69,Mercedes-Benz C 300,183054,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black,2008
+70,Lexus RX 350,35986,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2016
+71,Toyota Sienna,81647,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Silver,2005
+72,Toyota Camry,76305,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gold,2011
+73,Toyota Camry,165548,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2010
+74,Toyota Camry,109038,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Green,2013
+75,Toyota Corolla,38033,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2011
+76,Toyota Highlander,138897,Lagos,Locally used,6-cylinder(I6),automatic,petrol,Blue,2004
+77,Toyota Sienna,82113,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2011
+78,Acura RDX,169812,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2007
+79,Toyota Camry,2626,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2018
+80,Mercedes-Benz G 550,32085,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Black,2015
+81,Toyota Sienna,77763,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Red,2013
+82,Toyota Hiace,103642,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White and green,1998
+83,Toyota Corolla,157863,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2009
+84,BMW 535,13635,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2014
+85,Toyota Highlander,89741,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,White,2015
+86,Toyota Venza,85314,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2010
+87,Toyota Corolla,207503,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2010
+88,Acura TL,0,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,White,2004
+89,Lexus RX 350,176862,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2013
+90,Toyota RAV 4,75248,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Green,2004
+91,Toyota Camry,80,Lagos ,New ,4-cylinder(I4),automatic,petrol,Silver,2019
+92,Mercedes-Benz S 550,70800,Lagos,Locally used,8-cylinder(V8),automatic,petrol,Black,2012
+93,Toyota Camry,73587,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+94,Toyota Highlander,49883,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2017
+95,Toyota Camry,46715,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2008
+96,Nissan Xterra,113115,Ogun,Locally used,6-cylinder(I6),automatic,petrol,Grey ,2001
+97,Toyota Corolla,175025,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Silver,2009
+98,Infiniti FX,709043,Lagos ,Locally used,4-cylinder(I4),automatic,petrol,Silver,2010
+99,Land Rover Range Rover,128,Lagos,New ,4-cylinder(I4),automatic,petrol,Black,2018
+100,Nissan A,0,Lagos,Locally used,4-cylinder(I4),manual,diesel,white,1996
+101,Toyota 4-Runner,70000,Lagos,Locally used,8-cylinder(V8),automatic,petrol,Black,2017
+102,Honda Pilot,98145,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Light Grey,2006
+103,Land Rover Discovery,26195,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Green,2017
+104,Toyota Camry,650000,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2009
+105,Man LE 8. 180 PLATFORM TRUCK,283409,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,2005
+106,Toyota Corolla,96744,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+107,Lexus RX 350,15013,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2018
+108,Toyota Avalon,151179,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2008
+109,Toyota Corolla,80754,Lagos,Foreign Used,2-cylinder(I2),automatic,petrol,Black,2010
+110,Toyota Camry,52819,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2017
+111,Toyota Camry,53489,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2015
+112,Toyota Corolla,8066,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Silver,2009
+113,Toyota Yaris,9386,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Black,2010
+114,Lexus GX 460,86592,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Maroon,2011
+115,Toyota Sienna,42282,Lagos ,Locally used,4-cylinder(I4),automatic,petrol,Grey,2011
+116,Hyundai Elantra,112509,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+117,Honda Accord,34569,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+118,Toyota Camry,50626,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Brown,2018
+119,Volvo S80,157288,Ogun,Locally used,6-cylinder(I6),automatic,petrol,Grey ,2007
+120,Toyota Highlander,111517,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Black,2008
+121,Lexus ES 350,59974,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Blue,2012
+122,Honda Pilot,102741,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Blue,2005
+123,Toyota Sienna,178662,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2004
+124,Honda Civic,80459,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2008
+125,Toyota Camry,18530,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2018
+126,Toyota Avalon,229802,Mushin,Foreign Used,4-cylinder(I4),automatic,petrol,Wine,2006
+127,Toyota Highlander,89017,Abuja,New ,6-cylinder(I6),automatic,petrol,Ash,2004
+128,Toyota 4-Runner,90532,Lagos,Locally used,8-cylinder(V8),automatic,petrol,Green,2003
+129,Lexus ES 350,61807,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2007
+130,Mercedes-Benz GLA 180,11032,Lagos,New ,4-cylinder(I4),automatic,petrol,Brown,2014
+131,Acura TSX,132042,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2010
+132,Lexus ES 350,120412,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Silver,2008
+133,Lexus LX 570,189,Lagos,New ,4-cylinder(I4),automatic,petrol,Silver,2020
+134,Mercedes-Benz GLE 350,34695,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black,2016
+135,Toyota Camry,29454,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2002
+136,Toyota Corolla,22824,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2020
+137,Toyota Camry,222329,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2009
+138,Toyota Camry,102904,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2011
+139,Lexus GX 460,41258,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,White,2017
+140,Lexus ES 350,120557,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2009
+141,Toyota Hilux,5615,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Blue,2020
+142,Mercedes-Benz Maybach,6758,Lagos,New ,12-cylinder(V12),automatic,petrol,Black,2019
+143,Lexus GX 460,29223,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2018
+144,Mercedes-Benz GLK 350,71068,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black ,2014
+145,Mercedes-Benz 300,127046,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2008
+146,Honda Accord,90652,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2005
+147,Toyota Camry,128196,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2015
+148,Acura MDX,153255,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2004
+149,Toyota Highlander,8995,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2006
+150,Nissan INFINITI M90.150/2,105652,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Silver,2002
+151,Toyota Corolla,135666,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2011
+152,Hyundai Sonata,161293,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2012
+153,Toyota Highlander,113965,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Blue,2015
+154,Land Rover Range Rover Sport,10291,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2020
+155,Toyota Sienna,44669,Lagos State,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2017
+156,Nissan Altima,133212,other,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2009
+157,Peugeot 307,398564,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2008
+158,Fiat Ducato,12488,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Green,2001
+159,Mercedes-Benz C 350,159230,Lagos,Locally used,6-cylinder(V6),automatic,petrol,White,2008
+160,Lexus RX 330,266244,Lagos,Locally used,4-cylinder(I4),automatic,petrol,GOLD,2005
+161,Toyota Sienna,170351,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2011
+162,Toyota Avalon,176389,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Blac,2014
+163,Lexus LX 570,11839,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,White,2017
+164,Toyota Camry,58663,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2019
+165,Ford Edge,107127,Lagos,Locally used,6-cylinder(I6),automatic,petrol,Dark Blue,2012
+166,Honda CR-V,109160,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2004
+167,Toyota Camry,80601,Abuja ,Foreign Used,4-cylinder(I4),automatic,petrol,White,2002
+168,Toyota Corolla,110249,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2007
+169,Toyota Corolla,57389,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2014
+170,Volvo FL12,634718,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,1998
+171,Mercedes-Benz G 550,151548,Lagos State,Locally used,8-cylinder(V8),automatic,petrol,Black,2011
+172,Mercedes-Benz C 300,154768,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black,2008
+173,Lexus RX 330,177400,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2005
+174,Toyota RAV 4,123106,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Ash,2014
+175,Toyota RAV 4,140547,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Blue,2004
+176,Toyota RAV 4,171530,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Gray,2013
+177,Land Rover Range Rover,37944,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2014
+178,Toyota Venza,186704,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2009
+179,Ford Explorer,325841,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Blue,2005
+180,Lexus ES 350,91551,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2011
+181,Man 26-403,0,Lagos,Locally used,6-cylinder(V6),manual,diesel,green,2008
+182,Honda Civic,134800,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Black,2008
+183,Toyota Sienna,221396,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Dark Grey,2004
+184,Lexus LX 570,6023,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2019
+185,Toyota Corolla,143065,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2010
+186,MINI Cooper Coupé,61029,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2015
+187,Iveco TRUCK,0,Lagos,Locally used,6-cylinder(I6),manual,diesel,white,2006
+188,Nissan Cabstar,259575,Lagos,Locally used,4-cylinder(I4),manual,diesel,white,1994
+189,Toyota Camry,169525,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2010
+190,Toyota Corolla,98333,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2003
+191,Toyota Highlander,72075,Lagos ,Foreign Used,4-cylinder(I4),automatic,petrol,White,2009
+192,Toyota Corolla,96793,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Sliver,2003
+193,MINI Cooper,94847,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Yellow,2012
+194,Lexus RX 400,197563,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Brown,2006
+195,Toyota Sienna,188497,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2012
+196,Hyundai Elantra,168150,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Blue,2006
+197,Toyota Corolla,30209,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2014
+198,Mercedes-Benz GLK 350,63425,Lagos,Locally used,6-cylinder(V6),automatic,petrol,White,2014
+199,Toyota RAV 4,139548,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2013
+200,Toyota Highlander,279287,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Grey,2008
+201,Honda CR-V,144835,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2014
+202,Lexus LX 570,16479,Lagos State,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2016
+203,Mercedes-Benz GLK 350,96305,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2013
+204,Toyota Camry,18244,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2019
+205,Toyota Sienna,85461,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Grey,2011
+206,Ford TRANSIT PICKUP,0,Lagos,Locally used,4-cylinder(I4),manual,diesel,white,2012
+207,Toyota Camry,78862,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+208,Mercedes-Benz GLK 350,87656,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2010
+209,Toyota Prius,189423,Lagos,New ,4-cylinder(I4),automatic,petrol,Black,2009
+210,Toyota Corolla,100198,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2007
+211,Toyota Tundra,33009,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,White,2016
+212,Toyota Corolla,0,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Golf,2012
+213,Toyota Matrix,299999,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2003
+214,Honda Accord,156834,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Gray,2004
+215,Honda Element,163557,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2003
+216,Land Rover Range Rover,82,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2014
+217,Honda Accord,70447,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2010
+218,Toyota RAV 4,104261,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2004
+219,Honda Accord,25801,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2018
+220,Toyota Highlander,50304,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2017
+221,Ford Explorer,82220,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2015
+222,Toyota Camry,133913,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Black,2002
+223,Lexus RX 350,45104,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2013
+224,Mercedes-Benz C 300,97944,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2015
+225,Toyota Tacoma,89761,Ogun,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2006
+226,Honda Accord,46676,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gray,2018
+227,Honda Accord,183596,Lagos,Locally used,4-cylinder(I4),automatic,petrol,BLACK,1999
+228,Hyundai Sonata,103811,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2011
+229,Lexus ES 300,113260,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2001
+230,Toyota Corolla,96074,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2009
+231,Toyota Corolla,113229,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Blue,2011
+232,Honda Civic,253152,Ogun,Locally used,4-cylinder(I4),manual,petrol,Dark blue ,2001
+233,Toyota Highlander,95445,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Gold,2008
+234,DAF XF TRACTOR HEAD,0,Lagos,Locally used,6-cylinder(V6),manual,diesel,green,1999
+235,Toyota Venza,47321,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Black,2012
+236,Toyota Corolla,121483,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2009
+237,Toyota Hilux,38,Lagos,New ,4-cylinder(I4),automatic,petrol,White,2020
+238,Toyota Highlander,62710,Lagos ,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+239,Honda Odyssey,126155,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Dark Green,2005
+240,Lexus GX 460,17576,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,White,2019
+241,Lexus LX 570,24597,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Grey,2018
+242,Toyota Highlander,1355,Lagos,New ,4-cylinder(I4),automatic,petrol,Black,2019
+243,Mercedes-Benz S 550,25969,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+244,Honda Accord,15596,Lagos ,Foreign Used,4-cylinder(I4),automatic,petrol,White,2018
+245,Toyota Sienna,162533,Lagos,Locally used,6-cylinder(I6),automatic,petrol,Yellow,1999
+246,Toyota Corolla,253516,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2004
+247,Lexus ES 350,43371,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2012
+248,Toyota Corolla,219082,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Sliver,2009
+249,Hyundai Sonata,135744,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2011
+250,Nissan Pathfinder,222981,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Black,2002
+251,Mercedes-Benz 300,55905,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+252,Toyota Camry,99254,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2011
+253,Toyota Camry,80536,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2014
+254,Mazda 323,281394,Abuja,Foreign Used,3-cylinder(I3),automatic,petrol,Blue ,2002
+255,Toyota Camry,40860,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2018
+256,Toyota Corolla,132676,Arepo ogun state ,Foreign Used,4-cylinder(I4),automatic,petrol,Blue ,2010
+257,Mercedes-Benz E 300,44731,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,White,2017
+258,Mercedes-Benz E 300,41760,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2017
+259,Toyota Corolla,125708,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2007
+260,Lexus GS 350,98816,Lagos ,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2010
+261,Toyota Highlander,225126,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Red,2003
+262,Toyota Highlander,86305,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black ,2005
+263,Mercedes-Benz ML 350,147094,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2009
+264,Toyota Matrix,105483,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2003
+265,Lexus GX 460,122493,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Grey,2016
+266,Toyota Sienna,167457,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Blue,2005
+267,Toyota Highlander,87770,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Gold,2003
+268,Toyota Highlander,117024,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Blue,2005
+269,Mercedes-Benz E 350,44569,Ogun,Foreign Used,6-cylinder(V6),automatic,petrol,White,2012
+270,Toyota Tacoma,205290,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,1997
+271,Lexus RX 350,309306,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2007
+272,Toyota Venza,47702,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2015
+273,Porsche Cayenne,30194,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+274,Toyota Sienna,59193,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2013
+275,Toyota Camry,78032,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Gray,2011
+276,BMW 525,199829,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Gray,2005
+277,Honda Accord,97745,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Dark Grey,2010
+278,Toyota Corolla,39832,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2015
+279,Mercedes-Benz C 300,52866,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2018
+280,Toyota Land Cruiser,82828,Lagos,Locally used,8-cylinder(V8),automatic,petrol,Black,2000
+281,Toyota Corolla,76233,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gold,2009
+282,Honda Accord,25803,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Grey,2008
+283,Ford Edge,977452,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Wine,2009
+284,Toyota Camry,123698,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Black,2002
+285,Mercedes-Benz ML 350,18094,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2007
+286,Toyota Corolla,60499,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+287,Toyota Avalon,90349,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black ,2015
+288,Toyota Corolla,81904,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2008
+289,Toyota RAV 4,187079,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2013
+290,Mack R-686ST,0,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,1987
+291,Toyota Highlander,57803,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2009
+292,Toyota C-HR,15427,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2018
+293,Iveco TRUCK,27299,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,1998
+294,Toyota Matrix,182002,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2007
+295,Mitsubishi Eclipse,64447,Ogun State,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2007
+296,Chevrolet Camaro,14941,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2019
+297,Toyota Corolla,35473,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2016
+298,Toyota Tacoma,203267,Ogun,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2000
+299,Lexus ES 300,105302,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Dark Blue,2007
+300,Toyota Corolla,81943,Ogun,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2013
+301,Toyota Sienna,289095,Lagos ,Foreign Used,4-cylinder(I4),automatic,petrol,Brown,2011
+302,Toyota Sienna,89790,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2012
+303,Toyota Sienna,169544,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2007
+304,Mercedes-Benz CABIN PLUS CHASSIS ONLY,650923,Lagos,Locally used,6-cylinder(V6),manual,diesel,blue,1324
+305,Lexus GX 460,146275,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,White,2011
+306,Toyota Corolla,38501,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2017
+307,Mercedes-Benz GLE 450,9986,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2019
+308,Toyota Sienna,82469,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,White,2005
+309,Toyota Avensis,260970,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2000
+310,Ford Mustang,55973,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2015
+311,Lexus LX 570,50,Lagos,New ,4-cylinder(I4),automatic,petrol,Black,2020
+312,Toyota Corolla,91495,Lagos ,Foreign Used,4-cylinder(I4),automatic,petrol,White,2013
+313,Toyota Highlander,109210,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Navy blue,2006
+314,Toyota Highlander,189463,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Indigo ink pearl,2005
+315,Toyota Corolla,72646,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2013
+316,Lexus RX 350,205195,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2007
+317,Mercedes-Benz E 350,12391,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,White,2014
+318,Lexus RX 350,107757,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2011
+319,Toyota Corolla,60127,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Silver,2009
+320,Lexus RX 350,62960,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+321,Toyota Land Cruiser,56949,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2013
+322,Toyota Highlander,12733,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Grey,2016
+323,Toyota Camry,128750,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2011
+324,Toyota Sienna,198763,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2004
+325,Toyota RAV 4,65232,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Red,2008
+326,Toyota Highlander,48987,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Dark Grey,2015
+327,Lexus LX 570,1496,Abuja,New ,8-cylinder(V8),automatic,petrol,White,2016
+328,Volvo FL6,452815,Lagos,Locally used,6-cylinder(V6),manual,diesel,white,2000
+329,Toyota RAV 4,46953,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2013
+330,Toyota Corolla,32276,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2015
+331,Kia Optima,115435,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2014
+332,Toyota Corolla,61000,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2013
+333,Toyota Hiace,52636,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2003
+334,Toyota Sienna,62162,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,  Brown,2006
+335,Mitsubishi Pajero,128750,Lagos,Locally used,6-cylinder(I6),automatic,petrol,Dark Grey,2001
+336,Toyota Highlander,7086,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2018
+337,Honda Crosstour,72683,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2010
+338,Toyota Camry,26080,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2018
+339,Toyota Corolla,103667,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2009
+340,Toyota Venza,1632,Abuja,Foreign Used,6-cylinder(I6),automatic,petrol,Gold,2009
+341,Toyota Camry,148936,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+342,Toyota Highlander,228751,Abuja,Locally used,6-cylinder(V6),automatic,petrol,Blue,2005
+343,Lexus RX 350,14464,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2019
+344,Toyota Camry,63329,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Light Grey,2017
+345,Lexus RX 300,138197,Abuja,Foreign Used,6-cylinder(V6),automatic,petrol,Grey and black,2003
+346,Hyundai Elantra,104631,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2015
+347,Toyota Sienna,26348,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2016
+348,Lexus GX 460,57353,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2012
+349,Toyota Camry,119927,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2004
+350,Toyota RAV 4,63881,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2015
+351,Honda Civic,201916,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2008
+352,Honda Ridgeline,217143,Lagos,Locally used,6-cylinder(V6),automatic,petrol,White,2006
+353,Lexus RX 350,61727,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2009
+354,Mercedes-Benz 220,46368,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2014
+355,Toyota Corolla,76456,Ogun,Locally used,4-cylinder(I4),automatic,petrol,Green ,2009
+356,Acura TL,195268,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Grey,2005
+357,Toyota Sienna,124546,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2011
+358,Toyota RAV 4,68105,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black,2010
+359,Mitsubishi Montero,192374,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2003
+360,Toyota RAV 4,81432,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Gold,2010
+361,Toyota Sienna,82540,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Red,2007
+362,Pontiac Vibe,63119,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Grey,2007
+363,Toyota Corolla,16342,Lagos State,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2016
+364,Toyota Matrix,195393,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2006
+365,Ford F 150,77798,Lagos,Foreign Used,8-cylinder(V8),automatic,petrol,Silver,2010
+366,Honda Accord,652341,Abuja,Locally used,4-cylinder(I4),automatic,petrol,Silver,2003
+367,Lexus GX 460,9929,Lagos,New ,6-cylinder(V6),automatic,petrol,Black,2020
+368,Toyota Camry,91207,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2011
+369,Toyota Highlander,139365,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Silver,2001
+370,Toyota RAV 4,12066,Lagos State,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2015
+371,Lexus GX 460,11465,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2017
+372,Lexus LX 570,57810,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2017
+373,Mercedes-Benz CLS 500,92478,Abuja,Foreign Used,8-cylinder(V8),automatic,petrol,Black,2006
+374,Toyota Camry,0,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2007
+375,Toyota RAV 4,53743,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2015
+376,Peugeot 307,171119,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,White,2006
+377,Toyota Camry,137271,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2014
+378,Toyota Camry,85906,Lagos,Foreign Used,6-cylinder(I6),automatic,petrol,Black,2011
+379,Jeep Wrangler,132018,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2007
+380,Toyota 4-Runner,137219,Abuja,Foreign Used,6-cylinder(I6),automatic,petrol,Black,2004
+381,Toyota Corolla,89548,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2011
+382,Hyundai Sonata,89849,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2015
+383,Rolls-Royce Ghost,11950,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2012
+384,Toyota Camry,268314,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Gray,2002
+385,Toyota Camry,105823,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2013
+386,Toyota RAV 4,38264,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2018
+387,Honda Civic,215800,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2006
+388,Toyota Highlander,177162,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2008
+389,Ford Fusion,1775588,Lagos ,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2009
+390,Toyota Camry,59487,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2015
+391,Toyota Camry,88687,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Green,2011
+392,Lexus GS 300,2223,Lagos,Locally used,6-cylinder(V6),automatic,petrol,Silver,2006
+393,Toyota Venza,47876,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2015
+394,Toyota Camry,175301,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Classic Silver Met(1F7),2010
+395,Toyota Camry,118512,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Beige,2011
+396,Toyota Venza,123885,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Dark Grey,2009
+397,Toyota Corolla,188510,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Black,2006
+398,Ford Transit,0,Lagos,Locally used,4-cylinder(I4),manual,diesel,white,2006
+399,Mercedes-Benz C 180,73262,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,White,2016
+400,Honda Pilot,125424,Lagos,Locally used,6-cylinder(I6),automatic,petrol,Black,2009
+401,Hyundai Azera,145486,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2013
+402,Mitsubishi L200,156000,Abuja,Locally used,4-cylinder(I4),automatic,petrol,White,2010
+403,Toyota Camry,18627,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2015
+404,Toyota Highlander,31100,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Black,2015
+405,Honda CR-V,178790,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Red,2000
+406,Mercedes-Benz DUMP TRUCK,0,Lagos,Locally used,8-cylinder(V8),manual,diesel,white,2626
+407,Toyota Camry,72519,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2014
+408,Honda Accord,72167,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Blue,2014
+409,Lexus RX 350,65179,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2015
+410,Toyota RAV 4,6381,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2019
+411,Mercedes-Benz WATER TANKER,701934,Lagos,Locally used,8-cylinder(V8),manual,diesel,white,1726
+412,Kia Rio,188732,Lagos,Locally used,4-cylinder(I4),automatic,petrol,Blue ,2005
+413,Man BOCKMANN,546372,Lagos,Locally used,6-cylinder(V6),manual,diesel,green,2007
+414,Toyota RAV 4,101990,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2016
+415,Lexus RX 350,91144,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2013
+416,Toyota Corolla,61520,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2012
+417,Toyota Sienna,62158,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2006
+418,Lexus ES 350,110,Lagos,New ,4-cylinder(I4),automatic,petrol,Ash,2018
+419,Toyota RAV 4,74729,Abuja,New ,6-cylinder(V6),automatic,petrol,Dark Green,2011
+420,Toyota Hiace,151729,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Blue,2010
+421,Toyota Corolla,146213,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2015
+422,Toyota Land Cruiser,1240,Abuja,New ,4-cylinder(I4),automatic,petrol,Black,2019
+423,Lexus LX 570,78047,Abuja,Foreign Used,8-cylinder(V8),automatic,petrol,Silver,2013
+424,Toyota Camry,182508,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2007
+425,Toyota Camry,120860,Abia,Locally used,4-cylinder(I4),automatic,petrol,Gold,2004
+426,Toyota Camry,103000,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Silver,2011
+427,Toyota Avalon,83,Lagos,New ,6-cylinder(V6),automatic,petrol,Black,2019
+428,Toyota Highlander,0,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Grey,2009
+429,Toyota Corolla,99525,Abuja,Foreign Used,4-cylinder(I4),automatic,petrol,Red,2009
+430,Toyota 4-Runner,88947,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Dark Grey,2012
+431,Mercedes-Benz GLK 350,78175,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Dark Blue,2014
+432,Honda Crosstour,129223,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Red,2011
+433,Mercedes-Benz ML 350,100943,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Black,2013
+434,Lexus GX 470,81463,Lagos,Foreign Used,4-cylinder(I4),automatic,petrol,Mint green,2003
+435,Toyota Sienna,646,Lagos,Foreign Used,6-cylinder(V6),automatic,petrol,Silver,2006
